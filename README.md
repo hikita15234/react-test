@@ -1,2 +1,2 @@
-# react-test
+# reacttest
 Created with CodeSandbox
